@@ -1,0 +1,2 @@
+# NedbankAssessmentPreparations
+Software Quality Engineer
